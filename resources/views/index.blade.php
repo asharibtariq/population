@@ -158,7 +158,7 @@
         <!-- start of statistics section -->
         <div id="statistics" class="statistics-section section">
             <div class="section-content">
-                <div class="container"><ul class="statistics-items row"><li class="col-sm-12 col-md-6 col-lg-4" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);"><a href="#experience"><div class="icon"><img src="assets/images/icons/emblem.png" alt="Years of Experience"></div><div class="text"><h3>12+</h3><strong>Years of Experience</strong></div><i class="fa fa-angle-right" aria-hidden="true"></i></a></li><li class="col-sm-12 col-md-6 col-lg-4" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);"><a href="#portfolio"><div class="icon"><img src="assets/images/icons/check-mark.png" alt="Completed Projects"></div><div class="text"><h3>230+</h3><strong>Completed Projects</strong></div><i class="fa fa-angle-right" aria-hidden="true"></i></a></li><li class="col-sm-12 col-md-6 col-lg-4" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);"><a href="#testimonials"><div class="icon"><img src="assets/images/icons/happy.png" alt="Happy Clients"></div><div class="text"><h3>95+</h3><strong>Happy Clients</strong></div><i class="fa fa-angle-right" aria-hidden="true"></i></a></li></ul></div>
+                <div class="container"><ul class="statistics-items row"><li class="col-sm-12 col-md-6 col-lg-4" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);"><a href="#experience"><div class="icon"><img src="{{asset('layouts/images/icons/emblem.png')}}" alt="Years of Experience"></div><div class="text"><h3>12+</h3><strong>Years of Experience</strong></div><i class="fa fa-angle-right" aria-hidden="true"></i></a></li><li class="col-sm-12 col-md-6 col-lg-4" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);"><a href="#portfolio"><div class="icon"><img src="{{asset('layouts/images/icons/check-mark.png')}}" alt="Completed Projects"></div><div class="text"><h3>230+</h3><strong>Completed Projects</strong></div><i class="fa fa-angle-right" aria-hidden="true"></i></a></li><li class="col-sm-12 col-md-6 col-lg-4" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);"><a href="#testimonials"><div class="icon"><img src="{{asset('layouts/images/icons/happy.png')}}" alt="Happy Clients"></div><div class="text"><h3>95+</h3><strong>Happy Clients</strong></div><i class="fa fa-angle-right" aria-hidden="true"></i></a></li></ul></div>
             </div>
         </div>
         <!-- end of statistics section -->
@@ -308,14 +308,14 @@
                         <!-- contact info -->
                         <ul class="contact-info">
                             <li>
-                                <img src="assets/images/icons/address.png" alt="Address">
+                                <img src="{{asset('layouts/images/icons/address.png')}}" alt="Address">
                                 <div>
                                     <strong>Address:</strong>
                                     941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
                                 </div>
                             </li>
                             <li>
-                                <img src="assets/images/icons/phone.png" alt="Phone">
+                                <img src="{{asset('layouts/images/icons/phone.png')}}" alt="Phone">
                                 <div>
                                     <strong>Phone:</strong>
                                     <ul>
@@ -325,7 +325,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="assets/images/icons/email.png" alt="Email">
+                                <img src="{{asset('layouts/images/icons/email.png')}}" alt="Email">
                                 <div>
                                     <strong>Email:</strong>
                                     <ul>
