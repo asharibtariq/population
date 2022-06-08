@@ -265,7 +265,7 @@
                                 and project management.
                             </p>
                             <div class="btns-container">
-                                <a href="#contact" class="btn btn-primary">Hire Me</a>
+                                <a href="#contact" class="btn btn-success">Hire Me</a>
                                 <a download href="#" class="btn btn-outline-light">Download CV</a>
                             </div>
                         </div>

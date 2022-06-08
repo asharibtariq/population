@@ -77,14 +77,14 @@ Updated:    03/2022
 /*-----------------------------------------------------------------------------------------*/
 :root {
   /* primary color */
-  --primary-h: 24;
-  --primary-s: 74%;
-  --primary-l: 58%;
+  --primary-h: 134;
+  --primary-s: 90%;
+  --primary-l: 39%;
   --primary-color: var(--primary-h), var(--primary-s), var(--primary-l);
   /* secondary color */
-  --secondary-h: 13;
-  --secondary-s: 96%;
-  --secondary-l: 47%;
+  --secondary-h: 134;
+  --secondary-s: 90%;
+  --secondary-l: 39%;
   --secondary-color: var(--secondary-h), var(--secondary-s), var(--secondary-l);
   /* light color */
   --light-h: 0;
@@ -3328,8 +3328,8 @@ html[dir=rtl] .statistics-section .section-content .statistics-items a > .fa {
   height: 80%;
   width: 80%;
   background: linear-gradient(150deg, hsl(var(--main-color-one)) 0%, hsl(var(--main-color-two)) 100%);
-  -webkit-mask-image: url("../assets/images/blob-shape.png");
-          mask-image: url("../assets/images/blob-shape.png");
+  -webkit-mask-image: url("../layouts/images/blob-shape.png");
+          mask-image: url("../layouts/images/blob-shape.png");
   -webkit-mask-repeat: no-repeat;
           mask-repeat: no-repeat;
   -webkit-mask-position: center;
