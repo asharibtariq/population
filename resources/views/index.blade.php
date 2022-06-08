@@ -1204,7 +1204,7 @@
 </div>
 
 <!-- js plugins file -->
-<script src="{{asset('js/plugins.min.js')}}"></script> {{asset('js/plugins.min.js')}}
+<script src="{{asset('js/plugins.min.js')}}"></script>
 
 <!-- main script file -->
 <script src="{{asset('js/main.js')}}"></script>
